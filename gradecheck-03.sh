@@ -1,7 +1,7 @@
 #!/bin/bash
 
-$count = 0 
-$firewall_status = (sudo ufw status | tr -d ' ')
+count=0 
+firewall_status=$(sudo ufw status | tr -d ' ')
 if echo $firewall_status | grep -q "Status:active"; then
   echo "Firewall is active"
   count=$((count+1))
