@@ -1,6 +1,8 @@
 What protocol is the website exposed in? (protocol in small case)
 e0603c499aae47eb89343ad0ef3178e044c62e70ae2309b35591d1d49a3211ec
+
 What port is the website’s user interface exposed in? (port number in xxxx format)
 a176eeb31e601c3877c87c2843a2f584968975269e369d5c86788b4c2f92d2a2
+
 What port is the website’s backend exposed in? (port number in xxxx format)
 a20c25627ed7bbb6d2b999c589b698e6ecd84384e2e0e510d8869d79a5ad244c
