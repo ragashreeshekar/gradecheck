@@ -1,5 +1,12 @@
-Which accounts have Database admin login privileges? (Format: acc1, acc2, ..)
-ad8edf16ae246be3f311d4f4dc0fcbabe9eec17be1b00f2836d0b1cd26823f7b
-Which account is configured with peer method for login?
-a942b37ccfaf5a813b1432caa209a43b9d144e47ad0de1549c289c253e556cd5
+What is the error code when you try to access the volunteers table using any employee of furever?
+958f34269c3d5bc40496654d222183448dd88b5efa5130141b85a6cd625450f9
+
+What columns from the volunteers table do you see when logged in as an employee from the events department? (col1 col2 col3 col4 ..)
+6b95d50227378fd47b926c79b14ec7b07a86b00cf8ed04c62e1d5a53e488dae9
+
+Which user has the rights to edit the table volunteers?
+8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918
+
+What privileges are granted to managers for the employee table?
+b1a36d25d9633ed2ac04939fcb614ccb2b513243c148f18694592ae037f9d35f
 
