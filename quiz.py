@@ -2,7 +2,7 @@
 from hashlib import sha256
 import sys
 
-valid_quizzes = ['1']
+valid_quizzes = ['1', '2']
 
 def get_hex(answer: str):
     return sha256(bytes(answer.rstrip('\n'), 'utf-8')).hexdigest()
