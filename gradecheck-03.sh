@@ -1,6 +1,6 @@
 #!/bin/bash
 
-filename="/home/student/Downloads/furever/server.js"
+filename="/home/student/Documents/furever/server.js"
 search_text=""
 
 while read line; do
