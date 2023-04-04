@@ -5,10 +5,10 @@ search_text=""
 
 while read line; do
     if [[ $line == *"let hash = crypto.createHash('md5').update(pwd).digest('hex');"* ]]; then
-        echo "Gradecheck-04 is successful!"
+        echo "Gradecheck-03 is successful!"
         exit 0
     fi
 done < "$filename"
 
-echo "Gradecheck-04 failed, try again!"
+echo "Gradecheck-03 failed, try again!"
 exit 1
