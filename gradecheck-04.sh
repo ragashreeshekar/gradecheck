@@ -37,4 +37,4 @@ else
   echo "Port 5432 is allowed from other sources"
 fi
 
-echo "Gradecheck-03: You have configured" $count "out of 5!"
+echo "Gradecheck-04: You have configured" $count "out of 5!"
